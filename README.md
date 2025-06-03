@@ -22,7 +22,6 @@ A simple Gradio web app that uses **MediaPipe** and **OpenCV** to detect and blu
 ```bash
 .
 ├── app.py              # Gradio app logic
-├── utils.py            # Helper functions for face detection and blurring
 ├── examples/           # Example images and videos
 ├── requirements.txt    # Dependencies
 └── README.md           # This file
