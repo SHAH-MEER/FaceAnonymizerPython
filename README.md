@@ -4,7 +4,7 @@ A simple Gradio web app that uses **MediaPipe** and **OpenCV** to detect and blu
 
 | Original                           | Blurred                          |
 |------------------------------------|----------------------------------|
-| ![original](examples/testImg.pnng) | ![stylized](examples/image.webp) |
+| ![original](examples/testImg.png) | ![stylized](examples/output.webp) |
 
 ## 🚀 Features
 
